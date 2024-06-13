@@ -31,7 +31,7 @@
 - 适用于使用 SSPanel 用户管理面板搭建的网站，网站页面底部会有 `Powered by SSPANEL` 字段
 - 支持使用配置文件读取账户信息，支持多机场多用户签到1
 - 支持一日多次签到 
-- 支持推送签到信息到 QQ、微信和 Telegram
+- 支持推送签到信息到 QQ、微信和 Telegram.
 - 若有 bug 请到 [Issues](https://github.com/isecret/sspanel-autocheckin/issues/new) 反馈
 
 ## 升级警告
